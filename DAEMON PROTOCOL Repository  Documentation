@@ -1,0 +1,36 @@
+DAEMON PROTOCOL: Silent Deployment Phase
+
+PROJECT STATUS: BRAND VALIDATION (ZERO-COST MODEL)
+
+This repository hosts the front-end code for DAEMON PROTOCOL, a conceptual apparel line engineered for the architecture of focus. This project is currently operating in the Silent Deployment Phase (V0.1), utilizing a zero-budget, lead-generation strategy to validate product demand.
+
+The purpose of this repository is to serve the live, A.I. Protocol-themed website via GitHub Pages.
+
+1. LIVE SITE ACCESS
+
+The full, interactive A.I. Protocol interface is deployed from this repository.
+
+Access Protocol:
+[Insert your GitHub Pages URL here, e.g., https://yourusername.github.io/daemon-protocol-store/]
+
+Primary Function: Lead Capture / Waitlist Generation. The "Add to Cart" function has been replaced with "REQUEST ACCESS (JOIN WAITLIST)" to segment high-intent customers.
+
+2. CORE PHILOSOPHY
+
+DAEMON PROTOCOL crafts premium, minimalist apparel engineered for the architecture of focus. We are the quiet protocol, the essential background process for your deepest work.
+
+Our commitment is to premium fabrication ($\geq 350 \text{ GSM}$ structured cotton) and a "felt, not seen" minimalist aesthetic.
+
+3. ARCHITECTURE
+
+The entire application is contained within a single index.html file to maximize speed and minimize hosting costs.
+
+Front-End: Pure HTML5, Tailwind CSS (via CDN), and Vanilla JavaScript.
+
+Design Language: Dark, Monospaced (Fira Code), Neon Cyan Accents.
+
+Authentication/E-commerce: Disabled (Zero-Budget Model). Replaced with a Waitlist Modal for lead acquisition.
+
+Future Transition: Designed for seamless migration to a dedicated platform (e.g., Shopify) upon successful validation.
+
+[DP]: Status: Operational. Maintain silent deployment.
